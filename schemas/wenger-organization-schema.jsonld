@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wenger Corporation",
+  "url": "https://www.wengercorp.com/",
+  "description": "Wenger Corporation provides innovative products and solutions for music and theatre education, performing arts venues, and athletic programs, including music education equipment, theatre equipment, staging, acoustical solutions, storage, and athletic equipment storage.",
+  "slogan": "Enriching lives by enabling and inspiring great performances",
+  "foundingDate": "1946",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "555 Park Drive",
+    "addressLocality": "Owatonna",
+    "addressRegion": "MN",
+    "postalCode": "55060",
+    "addressCountry": "US"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+1-507-455-4100",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": "English"
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+1-800-493-6437",
+      "contactType": "customer service",
+      "areaServed": "US",
+      "availableLanguage": "English"
+    }
+  ],
+  "brand": [
+    {
+      "@type": "Brand",
+      "name": "Wenger"
+    },
+    {
+      "@type": "Brand",
+      "name": "J.R. Clancy"
+    },
+    {
+      "@type": "Brand",
+      "name": "GearBoss"
+    }
+  ],
+  "sameAs": [
+    "https://www.wengercorp.com/"
+  ],
+  "knowsAbout": [
+    "Music education equipment",
+    "Music chairs",
+    "Music stands",
+    "Instrument storage",
+    "Choral risers",
+    "Portable staging",
+    "Performing arts equipment",
+    "Theatre equipment",
+    "Theatre rigging",
+    "Acoustical solutions",
+    "Sound-isolation rooms",
+    "Athletic equipment storage"
+  ]
+}
